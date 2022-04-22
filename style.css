@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    text-align: center;
+    color: brown;
+}
+
+p{
+    border: solid rgb(250, 28, 239);
+    padding: 20px;
+    font-family: cursive;
+    font-size: 1.5em;
+    text-align: center;
+    color: rgb(15, 102, 190);
+}
